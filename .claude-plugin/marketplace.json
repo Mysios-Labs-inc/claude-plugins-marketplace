@@ -5,8 +5,8 @@
     "email": "hello@mysioslabs.com"
   },
   "metadata": {
-    "description": "Professional AI-powered productivity tools and job search automation",
-    "version": "1.0.0"
+    "description": "Professional AI-powered productivity tools and job search automation with AI intelligence",
+    "version": "1.2.0"
   },
   "plugins": [
     {
@@ -16,8 +16,8 @@
         "repo": "Mysios-Labs-inc/claude-jobseeking-plugin",
         "ref": "v1.2.0"
       },
-      "description": "🚀 AI-powered job application assistant plugin for Claude Code - Profile-driven automation with instant resume generation",
-      "version": "v1.2.0",
+      "description": "🧠 AI-powered job application assistant with intelligent profile analysis, skills gap assessment, and market intelligence. Enhanced document upload + real-time career insights for competitive job searching.",
+      "version": "1.2.0",
       "author": {
         "name": "Mysios Labs Inc",
         "email": "hello@mysioslabs.com"
