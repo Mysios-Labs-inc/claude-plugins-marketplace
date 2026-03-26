@@ -5,12 +5,9 @@
   },
   "plugins": [
     {
-      "name": "jobseeking-plugin",
-      "source": {
-        "source": "github",
-        "repo": "Mysios-Labs-inc/claude-jobseeking-plugin"
-      },
-      "description": "AI-powered job application assistant with intelligent profile analysis and market intelligence"
+      "name": "test-plugin",
+      "source": "./test-plugin",
+      "description": "Simple test plugin for validation"
     }
   ]
 }

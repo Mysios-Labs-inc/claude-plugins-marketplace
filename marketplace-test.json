@@ -1,13 +1,13 @@
 {
-  "name": "mysios-labs",
+  "name": "test-marketplace",
   "owner": {
-    "name": "Mysios Labs Inc"
+    "name": "Test User"
   },
   "plugins": [
     {
       "name": "test-plugin",
       "source": "./test-plugin",
-      "description": "Simple test plugin for validation"
+      "description": "Simple test plugin"
     }
   ]
 }
