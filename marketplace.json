@@ -8,5 +8,19 @@
     "name": "Mysios Labs Inc",
     "email": "hello@mysioslabs.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "test-plugin",
+      "description": "Minimal test plugin for marketplace validation",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mysios Labs Inc",
+        "email": "hello@mysioslabs.com"
+      },
+      "source": "./plugins/test-plugin",
+      "license": "MIT",
+      "category": "testing",
+      "keywords": ["test", "validation", "marketplace"]
+    }
+  ]
 }
